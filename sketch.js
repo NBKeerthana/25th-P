@@ -32,7 +32,7 @@ function setup() {
 
 	//Create the Bodies Here.
 	paperBall=new Paper (100,100,30);
-	//DustBin=new Dustbin(400,350,190,250);		
+	DustBin=new Dustbin(400,350,190,250);		
 
 	Engine.run(engine);
   
